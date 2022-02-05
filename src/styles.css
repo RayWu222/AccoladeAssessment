@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed");
+
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  text-align: center;
+  color: #60646d;
+  background-color: #f2f3f5;
+}
+/* .icon {
+  color: red;
+} */
+/* .about {
+  box-sizing: content-box;
+  width: 100%;
+  border: solid #5b6dcd 10px;
+  padding: 5px;
+  font-size: 0px;
+} */
